@@ -1,0 +1,200 @@
+1514307206549	Facebook	add_to_cart		Visitor-509315	Page-15	S&W Premium,Black Beans (tin)
+1514307243509	Other	page_view		Visitor-750691	Page-12	Clif Bar,Berry Pomegranate Chia Energy Bar
+1514307243509	Bing	page_view		Visitor-473581	Page-20	Pond's,Dry Skin Cream
+1514307243989	Facebook	page_view		Visitor-894502	Page-7	Spectrum Naturals,Peanut Oil
+1514307243989	Other	page_view		Visitor-13419	Page-5	Crisco,Pure Vegetable Oil
+1514307243989	Google	page_view		Visitor-256955	Page-3	Avery,Permanent Reinforcement Labels
+1514307243989	Other	page_view		Visitor-241258	Page-5	Gatorade,Perform Fruit Punch
+1514307243989	Other	page_view		Visitor-407416	Page-9	Avery,White Easy Peel Return Address Labels
+1514307243989	Direct	page_view		Visitor-895581	Page-13	Spectrum Naturals,Peanut Oil
+1514307243989	Direct	page_view		Visitor-68950	Page-6	Neutrogena,Alcohol-Free Toner
+1514307244469	Direct	page_view		Visitor-401513	Page-3	Tropicana,Orange Juice with Calcium & Vitamin D
+1514307244469	Twitter	page_view		Visitor-1200	Page-17	Trident,"White Gum, Peppermint"
+1514307244469	Google	page_view		Visitor-933658	Page-12	Gunnar,Vayper Onyx Advanced Gaming Eyewear
+1514307244949	Bing	page_view		Visitor-696112	Page-2	American Crew,Fiber
+1514307244949	Google	page_view		Visitor-960989	Page-17	Biotene,Dry Mouth  Oral Rinse
+1514307244949	Direct	page_view		Visitor-992850	Page-16	Expo,Dry Erase Markers
+1514307244949	Facebook	page_view		Visitor-382485	Page-5	Orbit,Spearmint Sugarfree Gum
+1514307244949	Twitter	page_view		Visitor-407948	Page-23	Pond's,Cold Cream Cleanser
+1514307244949	Yahoo	page_view		Visitor-938351	Page-24	Clif Bar,Chocolate Almond Fudge Energy Bar
+1514307244949	Facebook	page_view		Visitor-610160	Page-9	Ancient Harvest,Quinoa Rotelle
+1514307244949	Facebook	page_view		Visitor-532446	Page-16	Tresemme,Heat Tamer Spary
+1514307245429	Yahoo	page_view		Visitor-689424	Page-2	The Learning Company,Where in the U.S.A. is Carmen Sandiego
+1514307245909	Yahoo	page_view		Visitor-26089	Page-9	Expo,Dry Erase Markers
+1514307245909	Bing	page_view		Visitor-630615	Page-22	Simple Truth Organic,Baby Arugula
+1514307245909	Direct	page_view		Visitor-782170	Page-6	Blue Diamond,Almonds   Whole Natural
+1514307245909	Direct	page_view		Visitor-718268	Page-16	Kleenex,2-Ply White Tissues (208 × 213 mm/ 8.2 × 8.4 in)
+1514307245909	Direct	page_view		Visitor-267086	Page-5	David's Tea,Birthday Cake
+1514307245909	Facebook	page_view		Visitor-143320	Page-17	Heinz,Distilled White Vinegar
+1514307245909	Google	page_view		Visitor-949613	Page-10	Old Spice,Refresh Body Spray -Fiji
+1514307245909	Google	page_view		Visitor-542660	Page-3	Gnarly Head,Cabernet Sauvignon
+1514307245909	Direct	page_view		Visitor-436425	Page-13	CeraVe,Facial Moisturizing Lotion
+1514307246389	Direct	purchase		Visitor-661172	Page-13	Community,Season 2 DVDs
+1514307246869	Google	page_view		Visitor-406453	Page-0	Banquet,Brown 'N Serve Original Sausage Links
+1514307246869	Direct	page_view		Visitor-245710	Page-9	Opti-Free,Pure Moist Contact Solution
+1514307247349	Bing	page_view		Visitor-372416	Page-16	Kroger,Vanilla Extract
+1514307247349	Twitter	page_view		Visitor-271330	Page-16	CVS Total Home,"Aluminum Foil, Heavy Duty"
+1514307247349	Facebook	page_view		Visitor-606388	Page-4	Ralphs,Plastic Wrap
+1514307247349	Twitter	page_view		Visitor-466310	Page-2	Elmer's,Disappearing Purple School Glue Sticks
+1514307247349	Google	page_view		Visitor-52997	Page-20	Clean & Clear,Acne Cleanser
+1514307247349	Google	page_view		Visitor-178491	Page-1	Pond's,Cold Cream Cleanser
+1514307247349	Other	page_view		Visitor-853770	Page-17	Annie's,Rice Pasta and Extra Cheesy Cheddar Sauce
+1514307247349	Yahoo	page_view		Visitor-256477	Page-10	Coop,Tiefkühlbeutel mit Druckverschluss
+1514307247829	Bing	page_view		Visitor-571497	Page-21	Pantene,Repair & Protect 2in1 Shampoo & Conditioner
+1514307278549	Google	page_view		Visitor-593336	Page-11	Dove,Clean Comfort Deodorant
+1514307278549	Yahoo	page_view		Visitor-202808	Page-24	Old Spice,Refresh Body Spray -Fiji
+1514307278549	Bing	page_view		Visitor-378759	Page-0	Expo,Dry Erase Markers
+1514307278549	Twitter	page_view		Visitor-721880	Page-17	Dixie,Paper Plates
+1514307278549	Bing	page_view		Visitor-846551	Page-23	Mrs. Meyer's Clean Day,"Liquid Hand Soap Refill, Lavender Scent"
+1514307278549	Google	page_view		Visitor-790289	Page-9	Kleenex,2-Ply White Tissues (208 × 213 mm/ 8.2 × 8.4 in)
+1514307278549	Other	purchase		Visitor-235677	Page-14	Safeway,Whole Black Pepper
+1514307278549	Facebook	page_view		Visitor-537263	Page-17	Jolen,Creme Bleach - Lightens Excess Dark Hair
+1514307279029	Google	page_view		Visitor-130232	Page-6	Glade,Clean Linen Air Freshener
+1514307279029	Facebook	page_view		Visitor-318436	Page-10	Nature Made,D3 400 IU
+1514307279029	Direct	page_view		Visitor-98990	Page-10	Trident,"White Gum, Peppermint"
+1514307279029	Facebook	page_view		Visitor-382871	Page-4	Gatorade,Fierce Grape
+1514307279029	Bing	page_view		Visitor-648478	Page-22	Chemin Du Soleil,Chardonnay
+1514307279029	Other	page_view		Visitor-391959	Page-16	Nintendo,Super Mario Galaxy
+1514307279029	Bing	page_view		Visitor-386407	Page-21	Google,Chromecast
+1514307279029	Twitter	page_view		Visitor-407449	Page-7	S&W Premium,Black Beans (tin)
+1514307279029	Google	page_view		Visitor-841179	Page-10	Q-tips,Cotton Swabs
+1514307279029	Google	page_view		Visitor-917185	Page-7	Simple Truth Organic,Baby Arugula
+1514307279029	Yahoo	page_view		Visitor-589348	Page-0	Kirkland Signature,Bath Tissue
+1514307279509	Facebook	page_view		Visitor-949145	Page-3	Glass Plus,Glass Cleaner
+1514307279509	Yahoo	page_view		Visitor-67386	Page-16	McCormick,Italian Seasoning
+1514307279509	Twitter	page_view		Visitor-209605	Page-8	David's Tea,Bubbie's Baklava Oolong Tea
+1514307279509	Direct	page_view		Visitor-418209	Page-10	Andersen's,Creamy Soup Split Pea
+1514307279989	Google	page_view		Visitor-342211	Page-5	Saft Lingon,Lingonberry Drink Concentrate
+1514307279989	Twitter	page_view		Visitor-8438	Page-2	Gatorade,Frost Riptide Rush
+1514307279989	Google	page_view		Visitor-73297	Page-13	O-Live And Company,Extra Virgin Olive Oil
+1514307279989	Yahoo	page_view		Visitor-155277	Page-21	Pond's,Dry Skin Cream
+1514307279989	Yahoo	purchase		Visitor-259346	Page-23	Reynolds,Slow Cooker Liners
+1514307279989	Twitter	page_view		Visitor-338470	Page-0	Pond's,Dry Skin Cream
+1514307279989	Yahoo	page_view		Visitor-161330	Page-9	Honeywell,Power Air Circulator
+1514307279989	Yahoo	page_view		Visitor-893693	Page-3	Q-tips,Cotton Swabs
+1514307280469	Yahoo	page_view		Visitor-837754	Page-7	aussie,Instant Freeze Gel
+1514307280469	Google	page_view		Visitor-625849	Page-21	Coop,Tiefkühlbeutel mit Druckverschluss
+1514307280469	Yahoo	page_view		Visitor-238286	Page-22	Wexford,College Ruled Composition Book
+1514307280469	Facebook	page_view		Visitor-744634	Page-10	Pond's,Dry Skin Cream
+1514307280469	Twitter	page_view		Visitor-247094	Page-6	Gatorade,Fierce Grape
+1514307280469	Yahoo	purchase		Visitor-764695	Page-2	Lysol,Bathroom Cleaner with Hydrogen Peroxide
+1514307280469	Facebook	page_view		Visitor-959812	Page-7	SteamFast,Travel Steam Iron
+1514307280469	Yahoo	page_view		Visitor-159992	Page-2	Garnier Fructis Style,Pure Clean Finishing Paste
+1514307280949	Twitter	page_view		Visitor-662956	Page-21	Band-Aid,Flexible Fabric Bandages
+1514307280949	Google	page_view		Visitor-375019	Page-15	Saft Lingon,Lingonberry Drink Concentrate
+1514307280949	Direct	add_to_cart		Visitor-413151	Page-20	Community,Season 2 DVDs
+1514307280949	Facebook	page_view		Visitor-500196	Page-23	Kroger,Vanilla Extract
+1514307529109	Yahoo	page_view		Visitor-931627	Page-8	Trader Joe's,Extra Virgin Olive Oil
+1514307529109	Direct	page_view		Visitor-257377	Page-5	Pond's,Dry Skin Cream
+1514307529109	Google	page_view		Visitor-640168	Page-10	Kirkland Signature,Bath Tissue
+1514307529109	Yahoo	add_to_cart		Visitor-739702	Page-9	Gunnar,Vayper Onyx Advanced Gaming Eyewear
+1514307529109	Bing	page_view		Visitor-854118	Page-18	Pedifix,Arch Bandage
+1514307529109	Yahoo	page_view		Visitor-499359	Page-23	Nivea,Original Moisture Body Lotion
+1514307529109	Yahoo	page_view		Visitor-638258	Page-11	Community,Season 2 DVDs
+1514307529109	Facebook	page_view		Visitor-283172	Page-22	Trident,"White Gum, Spearmint"
+1514307529589	Direct	page_view		Visitor-409816	Page-22	Pedifix,Arch Bandage
+1514307529589	Google	purchase		Visitor-520885	Page-15	Trader Joe's,Tomato Sauce
+1514307529589	Bing	page_view		Visitor-947426	Page-4	Ralphs,Plastic Wrap
+1514307529589	Facebook	page_view		Visitor-75030	Page-17	Pond's,Dry Skin Cream
+1514307529589	Other	page_view		Visitor-107664	Page-16	Neutrogena,Oil-Free Acne Stress Control Power-Cream Wash
+1514307529589	Facebook	add_to_cart		Visitor-492375	Page-0	Disney,Tangled (DVD)
+1514307529589	Google	page_view		Visitor-810663	Page-0	Air Wick,Dual Action Spray
+1514307529589	Direct	purchase		Visitor-979012	Page-23	Barilla,Rotini
+1514307529589	Bing	page_view		Visitor-318151	Page-14	Sharpie,Fine Permanent Marker
+1514307529589	Twitter	page_view		Visitor-682264	Page-20	Air Wick,Dual Action Spray
+1514307529589	Facebook	page_view		Visitor-282010	Page-10	Biotene,Dry Mouth  Oral Rinse
+1514307529589	Direct	page_view		Visitor-867403	Page-19	David's Tea,Organic the Spice Is Right Green Tea
+1514307529589	Direct	page_view		Visitor-197066	Page-16	e.l.f.,Matte Lip Color-Paline
+1514307529589	Twitter	page_view		Visitor-453253	Page-4	Air Wick,Dual Action Spray
+1514307529589	Facebook	page_view		Visitor-706478	Page-1	De Cecco,Penne Rigate
+1514307529589	Facebook	purchase		Visitor-115804	Page-6	Secret,pH Balanced - Unscented
+1514307530069	Google	page_view		Visitor-725940	Page-5	RadioShack,PIR Sensor
+1514307530069	Bing	page_view		Visitor-239133	Page-14	Hot Shot,Flying Insect Killer
+1514307530069	Facebook	page_view		Visitor-319049	Page-9	O-Live And Company,Extra Virgin Olive Oil
+1514307530069	Facebook	page_view		Visitor-72708	Page-23	Arm & Hammer,Ultra Max Deodorant
+1514307530069	Twitter	page_view		Visitor-991316	Page-11	Barilla,Rotini
+1514307530069	Other	page_view		Visitor-935533	Page-16	Lancome,Creme Radiance
+1514307530069	Direct	page_view		Visitor-751854	Page-5	Elmer's,Disappearing Purple School Glue Sticks
+1514307530069	Yahoo	page_view		Visitor-525207	Page-4	Nature Made,D3 400 IU
+1514307530069	Other	page_view		Visitor-23346	Page-2	CVS Total Home,"Aluminum Foil, Heavy Duty"
+1514307530069	Twitter	page_view		Visitor-615753	Page-2	Gatorade,Fierce Grape
+1514307530069	Yahoo	page_view		Visitor-448214	Page-24	So Delicious,Coconut Milk
+1514307530069	Twitter	page_view		Visitor-488886	Page-10	Trident,"White Gum, Peppermint"
+1514307530069	Other	page_view		Visitor-625449	Page-3	Opti-Free,Pure Moist Contact Solution
+1514307530069	Direct	page_view		Visitor-447077	Page-20	Kleenex,White Tissues
+1514307530069	Facebook	page_view		Visitor-938331	Page-13	Grandma's Seasonings,Chili Powder
+1514307530069	Yahoo	page_view		Visitor-808128	Page-11	Heinz,Tomato Ketchup
+1514307530069	Bing	page_view		Visitor-474673	Page-2	Ancient Harvest,Quinoa Rotelle
+1514307530069	Yahoo	page_view		Visitor-721810	Page-2	e.l.f.,Smudge Pot- Back to Basics
+1514307530549	Twitter	page_view		Visitor-555792	Page-21	Kraft,Cool Whip
+1514307759509	Facebook	page_view		Visitor-839496	Page-12	Nature Made,D3 400 IU
+1514307759509	Yahoo	page_view		Visitor-882195	Page-17	Trader Joe's,Extra Virgin Olive Oil
+1514307759509	Twitter	purchase		Visitor-216125	Page-11	Rosewill,Hard Drive Docking
+1514307759509	Other	page_view		Visitor-193173	Page-12	e.l.f.,Matte Lip Color-Paline
+1514307759509	Yahoo	page_view		Visitor-227454	Page-9	Jolen,Creme Bleach - Lightens Excess Dark Hair
+1514307759509	Yahoo	page_view		Visitor-419306	Page-0	Kind,Dark Chocolate Nuts & Sea Salt Protein Bar
+1514307759509	Direct	purchase		Visitor-958184	Page-24	Kroger,Garlic Salt
+1514307759989	Facebook	page_view		Visitor-968308	Page-15	Clover Stornetta,Vitamin D Milk
+1514307759989	Yahoo	page_view		Visitor-482319	Page-8	Honeywell,Power Air Circulator
+1514307759989	Other	page_view		Visitor-626059	Page-14	The Learning Company,Where in the U.S.A. is Carmen Sandiego
+1514307759989	Direct	page_view		Visitor-133000	Page-3	Clover Stornetta,Vitamin D Milk
+1514307759989	Bing	page_view		Visitor-275267	Page-4	Arduino,Yun
+1514307759989	Direct	page_view		Visitor-197726	Page-24	Tide,Febreze Fresh Laundry Detergent
+1514307760469	Bing	page_view		Visitor-423073	Page-13	Alessi,Garlic Breadsticks
+1514307760469	Facebook	page_view		Visitor-628372	Page-15	McCormick,Pure Ground Black Pepper
+1514307760469	Other	page_view		Visitor-490254	Page-20	Thymes,Kimono Rose Hand Creme
+1514307760469	Yahoo	page_view		Visitor-621138	Page-0	Aveeno,Men's After Shave Lotion
+1514307760469	Other	page_view		Visitor-261988	Page-5	Trader Joe's,Sesame Melba Round Crackers
+1514307760469	Twitter	page_view		Visitor-55464	Page-21	Duracell,76A Duralock Battery
+1514307760469	Yahoo	page_view		Visitor-302359	Page-7	Clif,Builder's 20g Protein Bar Chocolate Mint
+1514307760469	Yahoo	page_view		Visitor-819842	Page-16	Kraft,Cool Whip
+1514307760469	Yahoo	page_view		Visitor-553391	Page-16	Crest,Pro-Health Fluoride Rinse
+1514307760469	Yahoo	page_view		Visitor-239868	Page-1	Reynolds,Parchment Paper
+1514307760469	Facebook	page_view		Visitor-414395	Page-13	Mr. Clean,Magic Eraser
+1514307760469	Google	page_view		Visitor-392496	Page-19	Nature Made,D3 400 IU
+1514307760469	Bing	page_view		Visitor-969726	Page-3	Stanley,9 Way Screwdriver
+1514307760469	Yahoo	page_view		Visitor-636207	Page-3	The Body Shop,Coconut Body Butter
+1514307760469	Bing	page_view		Visitor-902145	Page-3	Duette,Toilet Bowl Cleaner
+1514307760469	Direct	page_view		Visitor-643504	Page-3	Trader Joe's,Curry Powder
+1514307760469	Yahoo	page_view		Visitor-436677	Page-11	L'Oreal,Out of Bed Texturizer
+1514307760469	Google	page_view		Visitor-849343	Page-24	e.l.f.,Matte Lip Color-Paline
+1514307760469	Yahoo	purchase		Visitor-292481	Page-19	Tropicana,Orange Juice with Calcium & Vitamin D
+1514307760469	Facebook	page_view		Visitor-567206	Page-1	Secret,pH Balanced - Unscented
+1514307760469	Yahoo	page_view		Visitor-998699	Page-12	Neutrogena,Alcohol-Free Toner
+1514307760949	Twitter	page_view		Visitor-445272	Page-18	Glade,Clean Linen Air Freshener
+1514307760949	Google	page_view		Visitor-849009	Page-18	Coop,Tiefkühlbeutel mit Druckverschluss
+1514307760949	Google	page_view		Visitor-489321	Page-15	CVS Pharmacy,91% Isopropyl Alcohol
+1514307760949	Google	page_view		Visitor-942055	Page-21	Colgate,Toothbrush Value Pack
+1514307760949	Direct	page_view		Visitor-121030	Page-1	All,"Mighty Pacs, Free Clear"
+1514307760949	Yahoo	page_view		Visitor-760844	Page-22	Wexford,College Ruled Composition Book
+1514307760949	Other	page_view		Visitor-616071	Page-24	Heinz,Tomato Ketchup
+1514307760949	Google	page_view		Visitor-467250	Page-12	Mars,Peanut Butter M&M Chocolate Candies
+1514307760949	Twitter	page_view		Visitor-781192	Page-18	Lipton,Pure Green Tea
+1514308026389	Other	page_view		Visitor-608854	Page-16	RadioShack,PIR Sensor
+1514308026869	Direct	page_view		Visitor-214005	Page-15	The Body Shop,Coconut Body Butter
+1514308026869	Twitter	page_view		Visitor-894749	Page-24	SteamFast,Travel Steam Iron
+1514308026869	Yahoo	page_view		Visitor-615567	Page-24	So Delicious,Coconut Milk
+1514308026869	Facebook	page_view		Visitor-399361	Page-10	Clorox,Disinfecting Wipes
+1514308026869	Twitter	page_view		Visitor-600329	Page-5	up & up,Toothbrush Holder
+1514308026869	Yahoo	page_view		Visitor-638986	Page-5	Vicks,DayQuil Severe Cold & Flu
+1514308026869	Other	page_view		Visitor-678366	Page-6	Molton Brown,Re-Charge Black Pepper Body Wash
+1514308026869	Direct	page_view		Visitor-43340	Page-16	Neutrogena,Fresh Cleansing + Makeup Remover
+1514308026869	Bing	page_view		Visitor-461596	Page-1	Walgreens,Advanced Hand Sanitizer with Aloe
+1514308026869	Direct	page_view		Visitor-830540	Page-20	Honeywell,Power Air Circulator
+1514308026869	Bing	page_view		Visitor-417907	Page-2	Duracell,9V Procell Batteries
+1514308026869	Other	page_view		Visitor-124720	Page-5	Neutrogena,On-the-Spot Acne Treatment
+1514308026869	Google	page_view		Visitor-854779	Page-11	Biotene,Dry Mouth  Oral Rinse
+1514308026869	Facebook	page_view		Visitor-852204	Page-10	Gatorade,Fierce Grape
+1514308026869	Yahoo	page_view		Visitor-134998	Page-13	Purity Farms,Organic Ghee
+1514308026869	Yahoo	page_view		Visitor-257038	Page-17	Chemin Du Soleil,Chardonnay
+1514308026869	Other	page_view		Visitor-557735	Page-2	Heinz,Tomato Ketchup
+1514308026869	Facebook	page_view		Visitor-584083	Page-16	Penn,Extra Duty Felt Tennis Ball
+1514308026869	Google	page_view		Visitor-499986	Page-7	Rosewill,Hard Drive Docking
+1514308026869	Direct	page_view		Visitor-594832	Page-1	Pond's,Cold Cream Cleanser
+1514308027349	Facebook	page_view		Visitor-631350	Page-17	Gnarly Head,Cabernet Sauvignon
+1514308027349	Direct	page_view		Visitor-613248	Page-21	Duracell,9V Procell Batteries
+1514308027349	Google	page_view		Visitor-619163	Page-2	Clover Stornetta,Vitamin D Milk
+1514308027349	Twitter	page_view		Visitor-12454	Page-6	Organix,Renewing Argan Oil of Morocco
+1514308027349	Twitter	page_view		Visitor-83525	Page-17	Walgreens,Advanced Hand Sanitizer with Aloe
+1514308027349	Bing	page_view		Visitor-575704	Page-13	Mars,Peanut Butter M&M Chocolate Candies
+1514308027349	Yahoo	page_view		Visitor-358233	Page-17	Blizzard,Starcraft II: Wings of Liberty
